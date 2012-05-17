@@ -1,0 +1,17 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Author: Maxim Pestun
+  Twitter: @maxpestun
+
+/* THANKS */
+
+/* SITE */
+  Last update: 2012/04/28
+  Doctype: HTML5
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Language: English
+  Software: Cloud9 IDE, Geany, Ubuntu

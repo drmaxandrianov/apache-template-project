@@ -1,9 +1,9 @@
 <?php
 	// DB credentials
-	$DB_HOST = 'localhost';
+    $DB_HOST = '';
 	$DB_USER = '';
 	$DB_PASSWORD = '';
-	$DB_NAME = '';
+	$DB_NAME = ''; 
 
 	// reCAPTCHA
 	$RECAPTCHA_PUBLIC_KEY = "";
