@@ -8,9 +8,15 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+<<<<<<< HEAD
 	<title>Template Website</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
+=======
+	<title>PixelOwner Template Website</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+>>>>>>> 9ab7893e750a0f259e25012238733db682c94655
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" type="image/png" href="img/favicon.png">
