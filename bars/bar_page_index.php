@@ -12,18 +12,22 @@
 	// Check received data
 	if (mysql_num_rows($data) != 0) {
 
-		while ($pixel = mysql_fetch_array($data)) {
+		while ($row = mysql_fetch_array($data)) {
 			
 		}
 	}
 */	
 ?>
 
-<div class="hero-unit" style="margin-left: auto; margin-right:auto; text-align: center">
-    Hello World! This is a Web Site Template
+<div class="jumbotron">
+	<h1>Template Website</h1>
+	<p>Code licensed under Apache License v2.0. Code based on Twitter Bootstrap.</p>
+	<p>
+		<a class="btn btn-primary btn-large" href="http://www.apache.org/licenses/LICENSE-2.0">Learn more about license</a>
+		<a class="btn btn-primary btn-large" href="http://getbootstrap.com/">Learn more about Twitter Bootstrap</a>
+	</p>
 </div>
 
 <div class="row">
     
-	
 </div>
