@@ -1,4 +1,11 @@
 <?php
+	
+	// Function for marking the nav-bar as selected
+	function isThisPageOpenedNow($page_name) {
+		if ($page_name == substr($_SERVER["SCRIPT_NAME"], strrpos($_SERVER["SCRIPT_NAME"], '/') + 1)) {
+			echo ' class="active" ';
+		}
+	}
 
 	// Function, which returns the address of the corrent web page
 	function current_page_url() {

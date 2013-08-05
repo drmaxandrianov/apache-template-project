@@ -47,6 +47,7 @@
 				<li class="active"><a href="#">Home</a></li>
 				<li><a href="#">Link</a></li>
 				<li><a href="#">Link</a></li>
+				<li <?php isThisPageOpenedNow("index.php"); ?>><a href="index.php">Link with selection</a></li>
 			</ul>
 		</div>
 
